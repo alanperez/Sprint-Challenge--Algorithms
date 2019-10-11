@@ -6,7 +6,6 @@ Your function must utilize recursion. It cannot contain any loops.
 
 
 def count_th(word):
-    word = "abcthefthghith"
     # TBC
     if len(word) == 0 or len(word) < 2:
         return 0
