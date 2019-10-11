@@ -2,11 +2,17 @@
 
 ## Exercise I
 
-a) O(n)
+a) `O(n)`
 
-b) n^2
+Loops based on n
 
-c)O(n)
+b) `n^2`
+
+Loops through until its equal to
+
+c)`O(n)`
+
+Recursion that calls on it self so it would be linear o(n)
 
 ## Exercise II
 
